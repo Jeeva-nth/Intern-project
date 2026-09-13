@@ -1,4 +1,4 @@
-# Secure File Sharing System — Module 4
+# Secure File Sharing System 
 
 ## Stack
 - Python / Flask, PostgreSQL, SQLAlchemy, Alembic (migrations)
